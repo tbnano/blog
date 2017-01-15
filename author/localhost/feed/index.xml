@@ -9,28 +9,28 @@
 
 <channel>
 	<title>localhost &#8211; TBNano</title>
-	<atom:link href="/author/localhost/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://tbnano.github.io/blog/author/localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tbnano.github.io/blog</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 15 Jan 2017 05:25:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Jan 2017 05:47:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.1</generator>
 	<item>
 		<title>First Semester of Senior Design Wrapped Up!</title>
-		<link>/2017/01/15/hello-world/</link>
-		<comments>/2017/01/15/hello-world/#comments</comments>
+		<link>https://tbnano.github.io/blog/2017/01/15/hello-world/</link>
+		<comments>https://tbnano.github.io/blog/2017/01/15/hello-world/#comments</comments>
 		<pubDate>Sun, 15 Jan 2017 05:11:56 +0000</pubDate>
 		<dc:creator><![CDATA[localhost]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://tbnano.github.io/blog/?p=1</guid>
 		<description><![CDATA[We have successfully presented and demonstrated our innovative approach to tackling TB diagnostics this semester. We were able to detect our nanoparticles successfully with our electrochemical approach. Next semester we will focus on implementing ESAT6, the TB biomarker, and begin extensive testing to determine threshold levels. Additionally, we will finalize our electrode design and we [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>We have successfully presented and demonstrated our innovative approach to tackling TB diagnostics this semester. We were able to detect our nanoparticles successfully with our electrochemical approach. Next semester we will focus on implementing ESAT6, the TB biomarker, and begin extensive testing to determine threshold levels. Additionally, we will finalize our electrode design and we will miniaturize our current setup.</p>
 <p><iframe width="900" height="506" src="https://www.youtube.com/embed/BWsJy-LORAQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/01/15/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://tbnano.github.io/blog/2017/01/15/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
