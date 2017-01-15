@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>localhost &#8211; TBNano</title>
+	<title>Rohit Madhu &#8211; TBNano</title>
 	<atom:link href="https://tbnano.github.io/blog/author/localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tbnano.github.io/blog</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 15 Jan 2017 05:47:48 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Jan 2017 06:22:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@
 		<link>https://tbnano.github.io/blog/2017/01/15/hello-world/</link>
 		<comments>https://tbnano.github.io/blog/2017/01/15/hello-world/#comments</comments>
 		<pubDate>Sun, 15 Jan 2017 05:11:56 +0000</pubDate>
-		<dc:creator><![CDATA[localhost]]></dc:creator>
+		<dc:creator><![CDATA[Rohit Madhu]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">https://tbnano.github.io/blog/?p=1</guid>
