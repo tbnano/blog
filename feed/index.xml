@@ -12,12 +12,29 @@
 	<atom:link href="https://tbnano.github.io/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tbnano.github.io/blog</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 15 Jan 2017 06:22:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Mar 2017 03:44:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 	<item>
+		<title>Rice 360° Global Health Design Competition 2017</title>
+		<link>https://tbnano.github.io/blog/2017/03/29/rice-360-global-health-design-competition-2017/</link>
+		<comments>https://tbnano.github.io/blog/2017/03/29/rice-360-global-health-design-competition-2017/#respond</comments>
+		<pubDate>Wed, 29 Mar 2017 03:44:11 +0000</pubDate>
+		<dc:creator><![CDATA[Rohit Madhu]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://tbnano.github.io/blog/?p=28</guid>
+		<description><![CDATA[We traveled down to Houston, Texas for a design competition last Friday (March 24th). This conference was the culmination of all of our efforts so far to further develop our senior design project. Our lateral flow test was finalized and supported with the numerous dot blots conducted to determine the efficacy of our nanoparticle&#8217;s capturing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We traveled down to Houston, Texas for a design competition last Friday (March 24th). This conference was the culmination of all of our efforts so far to further develop our senior design project. Our lateral flow test was finalized and supported with the numerous dot blots conducted to determine the efficacy of our nanoparticle&#8217;s capturing ability. Additionally, our electrical component of the test was making steady progress but unfortunately it did not survive the trip on the airplane (this component is still being finalized and will be delivered in time for our final presentation). At the competition we met other bright students from not only across the country but also across the world. There was a fervor in the air to develop innovative solutions to solve global health challenges that met the criteria of being successful in low resource settings. This intellectual diversity was refreshing to see and we truly did experience a collaboration of ideas, which ultimately will help us improve our test. Our team, TB Assured, placed third in this competition and we were only only bested by two other very high caliber projects that helped with cervical cancer detection and Billy-Reuben classification respectively. Our standing is a testament of the tremendous support of our faculty mentors, Dr. Alessandra Luchini &#038; Dr. Lance Liotta, and the CAPMM team. The next steps for our project includes circuit finalization, electrode printing, cassette redesign, testing with TB-infected urine samples (from Peru), and ultimately the integration of these separate entities into a cohesive device. </p>
+<p><img src="http://www.rice360.rice.edu/fullscreen-page/comp-j0sj2gcy/6491eddc-f27a-4c63-a129-dbdb77bcdeed/4/%3Fi%3D4%26p%3Dr2tms%26s%3Dstyle-j0sjmgmb" alt="TB Assured Poster" /><br />
+<img src="http://www.rice360.rice.edu/fullscreen-page/comp-j0sj2gcy/32a0ee31-c380-4b75-ad2e-797ad31326da/3/%3Fi%3D3%26p%3Dr2tms%26s%3Dstyle-j0sjmgmb" alt="" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://tbnano.github.io/blog/2017/03/29/rice-360-global-health-design-competition-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>First Semester of Senior Design Wrapped Up!</title>
 		<link>https://tbnano.github.io/blog/2017/01/15/hello-world/</link>
 		<comments>https://tbnano.github.io/blog/2017/01/15/hello-world/#comments</comments>
