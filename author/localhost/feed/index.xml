@@ -12,12 +12,27 @@
 	<atom:link href="https://tbnano.github.io/blog/author/localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tbnano.github.io/blog</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 29 Mar 2017 04:00:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jul 2017 00:46:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 	<item>
+		<title>Latest Update</title>
+		<link>https://tbnano.github.io/blog/2017/07/19/latest-update/</link>
+		<comments>https://tbnano.github.io/blog/2017/07/19/latest-update/#respond</comments>
+		<pubDate>Wed, 19 Jul 2017 00:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[Rohit Madhu]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://tbnano.github.io/blog/?p=37</guid>
+		<description><![CDATA[TB Assured succeeded in being one of the teams selected for the Volgenau School of Engineering Outstanding Research Project Award in April, where the team received a $1000 for their efforts. Additionally, the team received the Dean&#8217;s Undergraduate Research Award at the College of Science Undergraduate Research Colloquium. In May, the Bioengineering Department awarded the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>TB Assured succeeded in being one of the teams selected for the Volgenau School of Engineering Outstanding Research Project Award in April, where the team received a $1000 for their efforts. Additionally, the team received the Dean&#8217;s Undergraduate Research Award at the College of Science Undergraduate Research Colloquium. In May, the Bioengineering Department awarded the TB Assured team with an Outstanding Senior Design Award. Finally, we have applied to the National Institute of Health&#8217;s DEBUT Challenge and we hope to place competitively. We will post a further update if we are one of the winning teams in this competition.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://tbnano.github.io/blog/2017/07/19/latest-update/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Rice 360° Global Health Design Competition 2017</title>
 		<link>https://tbnano.github.io/blog/2017/03/29/rice-360-global-health-design-competition-2017/</link>
 		<comments>https://tbnano.github.io/blog/2017/03/29/rice-360-global-health-design-competition-2017/#respond</comments>
@@ -36,7 +51,7 @@
 		<item>
 		<title>First Semester of Senior Design Wrapped Up!</title>
 		<link>https://tbnano.github.io/blog/2017/01/15/hello-world/</link>
-		<comments>https://tbnano.github.io/blog/2017/01/15/hello-world/#comments</comments>
+		<comments>https://tbnano.github.io/blog/2017/01/15/hello-world/#respond</comments>
 		<pubDate>Sun, 15 Jan 2017 05:11:56 +0000</pubDate>
 		<dc:creator><![CDATA[Rohit Madhu]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -47,7 +62,7 @@
 <p><iframe width="900" height="506" src="https://www.youtube.com/embed/BWsJy-LORAQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 			<wfw:commentRss>https://tbnano.github.io/blog/2017/01/15/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
